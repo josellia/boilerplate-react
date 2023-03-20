@@ -1,0 +1,16 @@
+/node_modules
+/.pnp
+.pnp.js
+
+/coverage
+
+/dist
+/build
+
+.idea/
+.vscode/
+
+/storybook-static
+/src/stories
+
+/tsBuildInfoFile/
