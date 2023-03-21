@@ -3,5 +3,9 @@
   "version": "1.0.0",
   "main": "index.js",
   "author": "josellia",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "@commitlint/cli": "^17.4.4",
+    "@commitlint/config-conventional": "^17.4.4"
+  }
 }
